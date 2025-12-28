@@ -26,10 +26,16 @@
 ## 🧰 Tech Stack
 
 ### Security & SOC
-![QRadar](https://img.shields.io/badge/IBM%20QRadar-111?style=for-the-badge&logo=ibm)
-![Wazuh](https://img.shields.io/badge/Wazuh-111?style=for-the-badge)
-![Snort](https://img.shields.io/badge/Snort-111?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FC4C02?style=for-the-badge&logo=snort&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
