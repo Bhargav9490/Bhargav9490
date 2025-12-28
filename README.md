@@ -21,6 +21,11 @@
 
 📫 **Reach me:** bhargavu720@gmail.com
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uppalapatibhargav/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavu720@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white)](https://your-resume-link)
+
 ---
 
 ## 🧰 Tech Stack
