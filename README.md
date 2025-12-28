@@ -19,7 +19,7 @@
 - 🐧 Strong Linux, networking & scripting background
 - ⚙️ Interested in **SOC automation & blue team engineering**
 
-📫 **Reach me:** your-email@gmail.com
+📫 **Reach me:** bhargavu720@gmail.com
 
 ---
 
