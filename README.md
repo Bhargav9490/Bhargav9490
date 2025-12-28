@@ -19,11 +19,17 @@
 - 🐧 Strong Linux, networking & scripting background
 - ⚙️ Interested in **SOC automation & blue team engineering**
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uppalapatibhargav/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavu720@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1jcIb2ydASW-AWh0BsJoHoWH4DkimRI44/view?usp=drive_link)
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/uppalapatibhargav/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhargavu720@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1jcIb2ydASW-AWh0BsJoHoWH4DkimRI44/view">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
