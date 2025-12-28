@@ -43,7 +43,7 @@
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 
-### Security & SOC
+### SIEM & SOC
 ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white)
