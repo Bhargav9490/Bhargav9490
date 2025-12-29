@@ -61,7 +61,7 @@
 
 ### Platforms & Tools
 ![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![Proxmox](https://img.shields.io/badge/Proxmox-111?style=for-the-badge)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 
 ---
