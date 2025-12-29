@@ -2,15 +2,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" width="400" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Bhargav</h1>
-<h3 align="center">Cybersecurity | SOC | SIEM | Automation</h3>
-<div align="center">
-A motivated B.Tech graduate specializing in Networking and Security with hands-on experience as a Cybersecurity Analyst and SOC Engineer. Skilled in SIEM operations, threat detection, and incident response using tools like IBM QRadar, Wazuh, and Suricata. Currently working at Cyber Lancers Pvt Ltd, contributing to proactive security monitoring and infrastructure hardening.
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhargav9490&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Bhargav</h1>
+  <h3>Cybersecurity | SOC | SIEM | Automation</h3>
+  <p>A motivated B.Tech graduate specializing in Networking and Security with hands-on experience as a Cybersecurity Analyst and SOC Engineer. Skilled in SIEM operations, threat detection, and incident response using tools like IBM QRadar, Wazuh, and Suricata. Currently working at <strong>Cyber Lancers</strong>, contributing to proactive security monitoring and infrastructure hardening.</p>
+  <p><img src="https://komarev.com/ghpvc/?username=Bhargav9490&label=Profile%20Views&color=0e75b6&style=flat" alt="Bhargav9490" /></p>
+</div>
 
 ---
 
