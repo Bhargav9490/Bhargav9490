@@ -16,8 +16,10 @@
 
 - 🔭 I’m currently a **Cyber Security Analyst** at **[Cyber Lancers Pvt. Ltd.](https://cyberlancers.in/)**.
 - 🔐 I’m currently diving deep into **SIEM Administration** and **SOC Operations** like Malicious Alert Detection, Log Analysis.
-- 📊 Hands-on with **QRadar, Wazuh, SIEM rules & log analysis**
-- 🐧 Strong Linux, networking & scripting background
+- 📊 Open to Work with Open Source Projects like any automation with Security Tools. 
+- 🐧 Ask me about the Linux Commands and Protocols, SIEM Infrastructure and SOC Operations
+- 📫 How to reach me: **bhargavu720@gmail.com**
+- 📄 Check out my resume for more details: **[My Resume](https://drive.google.com/file/d/1jcIb2ydASW-AWh0BsJoHoWH4DkimRI44/view)**
 - ⚙️ Interested in **SOC automation & blue team engineering**
 
 <p align="center">
