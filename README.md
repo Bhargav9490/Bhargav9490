@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">Cybersecurity | SOC | SIEM | Automation</h3>
 <div align="center">
-A highly motivated B.Tech graduate specializing in Networking and Security, with hands-on experience as a Cybersecurity Analyst and SOC Engineer. Skilled in designing and managing scalable Security Operations Center (SOC) frameworks, SIEM administration, and real-time threat detection. Proficient in tools such as IBM QRadar, Wazuh, Suricata, Sophos, and FortiGate firewalls, with strong capabilities in incident response. Currently working at Cyber Lancers Pvt Ltd, where I contribute to enhancing organizational security posture through proactive monitoring, threat intelligence, and infrastructure hardening. Passionate about cybersecurity, continuous learning, and building resilient, secure systems.
+A motivated B.Tech graduate specializing in Networking and Security with hands-on experience as a Cybersecurity Analyst and SOC Engineer. Skilled in SIEM operations, threat detection, and incident response using tools like IBM QRadar, Wazuh, and Suricata. Currently working at Cyber Lancers Pvt Ltd, contributing to proactive security monitoring and infrastructure hardening.
 </div>
 
 <p align="center">
