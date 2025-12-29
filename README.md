@@ -87,7 +87,7 @@
 | Project | Description | Tech |
 |------|-----------|------|
 | [MQTT_Attack](https://github.com/Bhargav9490/MQTT_Attack) | MQTT attack simulation & PoC | Python |
-| [QRCE-QRadar-Community-Edition-Rules](https://github.com/Bhargav9490/QRCE-QRadar-Community-Edition-Rules) | Custom QRadar rules | QRadar |
+| [QRCE-QRadar-Community-Edition-Rules](https://github.com/Bhargav9490/QR-QRadar-Rules) | Custom QRadar rules | QRadar |
 | [static](https://github.com/Bhargav9490/static) | Utility scripts | Shell |
 
 ---
