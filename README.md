@@ -11,12 +11,13 @@
 </div>
 
 ---
+I’m currently diving deep into **Advanced Backend Technologies** like **Kafka, Redis, Docker, and Kubernetes**.
 
 ## 🧠 About Me
 
-- 🔐 Cybersecurity enthusiast focused on **SOC operations & detection**
+- 🔭 I’m currently a **Cyber Security Analyst** at **[Cyber Lancers Pvt. Ltd.](https://cyberlancers.in/)**.
+- 🔐 I’m currently diving deep into **SIEM Adminitration** and **SOC Operations** like Malicious Alert Detection, Log Analysis, Identifying the False Positives
 - 📊 Hands-on with **QRadar, Wazuh, SIEM rules & log analysis**
-- 🧪 Build **attack simulations & PoCs** for learning and detection validation
 - 🐧 Strong Linux, networking & scripting background
 - ⚙️ Interested in **SOC automation & blue team engineering**
 
