@@ -60,9 +60,9 @@
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
 
 ### Platforms & Tools
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
