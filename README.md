@@ -20,7 +20,7 @@
 - 🐧 Ask me about the Linux Commands and Protocols, SIEM Infrastructure and SOC Operations
 - 📫 How to reach me: **bhargavu720@gmail.com**
 - 📄 Check out my resume for more details: **[My Resume](https://drive.google.com/file/d/1jcIb2ydASW-AWh0BsJoHoWH4DkimRI44/view)**
-- ⚙️ Interested in **SOC automation & blue team engineering**
+- ⚙️ Interested in **SOC automation & blue team engineering **
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uppalapatibhargav/">
